@@ -10,3 +10,16 @@ body{
     background-image: url('image/background.jpg');
     letter-spacing: 1px;
 }
+
+.maintext{
+    text-align: center;
+    line-height: 50px;
+}
+
+.aboutme{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 30px 50px 30px 50px;
+}
+
