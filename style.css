@@ -29,12 +29,12 @@ a{
     cursor: pointer;
     outline: none;
     transition: 0.2s ease-in-out;
-    padding: 5px 7px 5px 7px;
+    padding: 5px 20px 5px 20px;
 }
 
 a:hover{
     background: #4F95DA;
-    border-radius: 12px;
+    border-radius: 10px;
     box-shadow: 2px 2px 40px #2675dd;
 }
 
